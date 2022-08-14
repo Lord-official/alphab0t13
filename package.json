@@ -17,7 +17,7 @@
     "child_process": "1.0.2",
     "crypto": "1.0.1",
     "dotenv": "8.6.0",
-    "emoji-api": "1.0.2",
+    "emoji-api": "2.0.1",
     "fb-video-downloader": "1.0.3",
     "file-type": "16.5.4",
     "fluent-ffmpeg": "2.1.2",
